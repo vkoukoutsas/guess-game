@@ -1,6 +1,6 @@
-# Simple Guessing game for Unix Workbench course from Coursera/JHU
-## Peer-graded Assignment: BAsh, Make, Git, and GitHub
+# Simple Guessing game for Unix Workbench course
+## Peer-graded Assignment: Bash, Make, Git, and GitHub
 
-**Creation Date:** Thu Jul 19 19:03:42 EDT 2018
+**Creation Date:** Thu Jul 19 19:08:13 EDT 2018
 
-**Lines in guessinggame.sh:** 31 guessinggame.sh
+**Lines in guessinggame.sh:** 31
